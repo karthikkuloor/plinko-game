@@ -1,2 +1,2 @@
-# plinko-game
-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
